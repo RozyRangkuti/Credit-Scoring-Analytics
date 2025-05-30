@@ -1,4 +1,5 @@
 # Credit-Scoring-Analytics
+# Menyelesaikan Permasalahan Perusahaan Finance Merdeka untuk menentukan Nasabah mereka memiliki credit score good, standard atau poor.
 
 ## Bussiness Understanding
 By definition, credit scoring analytics merupakan sebuah proses analisis yang dilakukan oleh pemberi pinjaman (lenders) atau institusi keuangan guna menentukan kelayakan kredit (creditworthiness) dari peminjam (borrower). Proses ini biasanya akan menghasilkan sebuah nilai numerik yang menentukan kemungkinan peminjam tersebut gagal bayar. Nilai numerik inilah yang menjadi acuan pemberi pinjaman dalam menilai resiko dari sebuah kredit.
