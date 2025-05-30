@@ -27,8 +27,8 @@ with col1:
     data["Credit_Mix"] = [Credit_Mix]
     
 with col2:
-    Payment_Of_Min_Amount = st.selectbox(label='Payment_of_Min_Amount', options=encoder_Payment_of_Min_Amount.classes_, index=1)
-    data["Payment_Of_Min_Amount"] = [Payment_Of_Min_Amount]
+    Payment_of_Min_Amount = st.selectbox(label='Payment_of_Min_Amount', options=encoder_Payment_of_Min_Amount.classes_, index=1)
+    data["Payment_of_Min_Amount"] = [Payment_of_Min_Amount]
     
 with col3:
     Payment_Behaviour = st.selectbox(label='Payment_Behaviour', options=encoder_Payment_Behaviour.classes_, index=5)
