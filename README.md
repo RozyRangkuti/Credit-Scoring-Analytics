@@ -16,7 +16,7 @@ Walaupun menyediakan berbagai solusi keuangan berbasis teknologi, terdapat beber
 - Melakukan deployment model machine learning agar dapat digunakan untuk memprediksi apakah seorang nasabah memiliki credit score good, standard atau poor.
 
 ## Preparation
-***Data Source***
+*** Data Source ***
 - [Credit Score Classification Dataset](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
 
 ## Setup Environment - Anaconda
