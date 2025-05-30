@@ -39,8 +39,9 @@ Walaupun menyediakan berbagai solusi keuangan berbasis teknologi, terdapat beber
 4. Install semua requirements di dalam file "requirements.txt"
    ```bash
    pip install -r requirements.txt
-
-   ## Machine Learning Prediction System
+   ```
+   
+## Machine Learning Prediction System
 Untuk mendukung Perusahaan Finance Merdeka untuk memprediksi nasabah tersebut memiliki credit score good, standard atau poor, telah dikembangkan sebuah sistem prediksi. Sistem ini dibangun menggunakan platform Streamlit. Untuk menjalankan aplikasi ini secara lokal, pengguna dapat menjalankan perintah berikut di Terminal:
 
 ```bash
